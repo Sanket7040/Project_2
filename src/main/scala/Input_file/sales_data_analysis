@@ -1,0 +1,6 @@
+sale_id,sale_date,product_name,quantity,unit_price,total_amount,region,salesperson,status
+1,2025-08-01,"Laptop",2,750.00,1500.00,"North","Alice","Completed"
+2,2025-08-02,"Smartphone",5,300.00,1500.00,"South","Bob","Pending"
+3,2025-08-03,"Tablet",3,200.00,600.00,"East","Charlie","Completed"
+4,2025-08-04,"Monitor",4,120.00,480.00,"West","Diana","Cancelled"
+5,2025-08-05,"Keyboard",10,25.00,250.00,"North","Eve","Completed"

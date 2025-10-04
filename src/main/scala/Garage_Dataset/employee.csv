@@ -1,0 +1,7 @@
+EID,EName,EJob,E_City,E_Phone,E_Salary,E_JDate,E_Dol
+3000,James Phillip,Fitter,Paris,10322264,null,2008-01-01,null
+3001,Steven King,Painter,New York,10367454,1200,2010-07-09,null
+3002,David Austin,Fitter,Man Hatton,10367434,1100,2010-08-19,null
+3003,Bruce Ernst,Mechanic,New Jersy,10367264,2200,2010-09-08,null
+3004,Luis Popp,Mechanic,New Jersy,10367264,1700,2009-10-19,2010-09-06
+3005,Sheri Gomes,Fitter,Paris,10327264,1000,2009-10-19,2010-08-01

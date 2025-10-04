@@ -1,0 +1,11 @@
+sale_id,customer_name,sale_date,total_amount,city,payment_status
+1,Vaishnavi Jadhav,2024-11-25,250.50,Mumbai,Paid
+2,Aliya Shaikh,2024-11-20,300.00,Pune,Pending
+3,Mohit Khadse,2024-11-18,120.75,Nagpur,Paid
+4,Sachin Madavi,2024-11-22,400.90,Mumbai,Paid
+5,Piyush Badgujar,2024-11-25,180.00,Pune,Pending
+6,Shivakumar Malage,2024-11-20,550.50,Nashik,Paid
+7,Revansidh Jeure,2024-11-18,75.25,Mumbai,Paid
+8,Vishnu Sirsalle,2024-11-22,190.30,Nagpur,Pending
+9,Shubham Bhagat,2024-11-25,320.00,Pune,Paid
+10,Suryansh Chauhan,2024-11-19,500.00,Mumbai,Pending
